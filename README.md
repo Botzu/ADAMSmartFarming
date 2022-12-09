@@ -1,6 +1,6 @@
 # ADAMSmartFarming
 
-## Custom Features:
+## Features:
 
 * Reads multiple sensor values from multiple microcontroller boards at once
 * Charts sensor readings dynamically using MPAndroidChart
