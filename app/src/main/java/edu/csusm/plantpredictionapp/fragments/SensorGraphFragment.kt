@@ -74,7 +74,6 @@ class SensorGraphFragment : Fragment() {
         mLineChart.isDragEnabled = true
         mLineChart.setScaleEnabled(true)
         lineChartYValues = ArrayList()
-        lineChartYValues = sensorViewModel.soilMoistureChartDataList
         setupGraph()
 
         backBtn.setOnClickListener {
