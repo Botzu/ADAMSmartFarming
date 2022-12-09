@@ -6,6 +6,7 @@
 * Charts sensor readings dynamically using MPAndroidChart
 * Authentication through AWS cognito
 * Displays crop suggestions powered by flask sever hosting ML algorithm
+ * Top 3 are our suggested crops to plant
 * Provides sensor warnings based on the MQTT values
 * Stores the prediction data locally on the app using an SQLite Database
 * Custom Icons created through Adobe XD
