@@ -11,6 +11,17 @@
 * Stores the prediction data locally on the app using an SQLite Database
 * Custom Icons created through Adobe XD
 
+## Requires sensors to read the following:
+* Soil NPK
+* Soil PH
+* Soil Moisture
+* Water Turbidity
+* Water PH
+* Atmospheric Temperature
+* Atmospheric Humidity
+
+-- Corresponding MQTT tags can be seen in SerializableMqTTTypes.kt
+
 ## Additional Android Libraries Used in Project 
 
 * MPAndroidChart
