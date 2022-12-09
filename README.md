@@ -20,7 +20,7 @@
 * Atmospheric Temperature
 * Atmospheric Humidity
 
--- Corresponding MQTT tags can be seen in SerializableMqTTTypes.kt
+-- Corresponding MQTT tags can be seen in SerializableMqTTTypes.kt file
 
 ## Additional Android Libraries Used in Project 
 
