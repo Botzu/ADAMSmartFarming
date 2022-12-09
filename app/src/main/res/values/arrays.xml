@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="crops">
+        <item>apple</item>
+        <item>banana</item>
+        <item>black gram</item>
+        <item>chick pea</item>
+        <item>coconut</item>
+        <item>coffee</item>
+        <item>cotton</item>
+        <item>grape</item>
+        <item>jute</item>
+        <item>kidney Bean</item>
+        <item>lentil</item>
+        <item>maize</item>
+        <item>mango</item>
+        <item>moth beans</item>
+        <item>mung bean</item>
+        <item>muskmelon</item>
+        <item>orange</item>
+        <item>papaya</item>
+        <item>pigeon pea</item>
+        <item>pomegranate</item>
+        <item>rice</item>
+        <item>watermelon</item>
+    </array>
+    <array name="crop_types">
+        <item>creeper</item>
+        <item>climber</item>
+        <item>herb</item>
+        <item>shrub</item>
+        <item>tree</item>
+    </array>
+    <array name="crop_produces">
+        <item>fruit</item>
+        <item>vegetable</item>
+        <item>grain</item>
+        <item>seed</item>
+        <item>fiber</item>
+    </array>
+</resources>

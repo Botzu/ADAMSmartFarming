@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="main_theme_background">#10316b</color>
+    <color name="muted_main_theme_background">#A010316b</color>
+    <color name="main_green_color">#0b8457</color>
+    <color name="muted_green_color">#800b8457</color>
+    <color name="yellow_button_color">#d4af00</color>
+    <color name="muted_blue">#3b719f</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="red">#FF0000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="green">#00ff00</color>
+    <color name="snackBarColor">#f7e594</color>
+    <color name="sensorBackground">#FFFEE3</color>
+    <color name="snackBarActionColor">#BB0000</color>
+</resources>
