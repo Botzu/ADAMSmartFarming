@@ -1,7 +1,5 @@
 # ADAMSmartFarming
 
-Project by Daniel Timko, Adityan Elangovan, Aruna Elangovan and Mikhail Sharko
-
 ## Custom Features:
 
 * Reads multiple sensor values from multiple microcontroller boards at once
@@ -21,3 +19,16 @@ Project by Daniel Timko, Adityan Elangovan, Aruna Elangovan and Mikhail Sharko
 * Kotlinx-Serialization
   * Serializing the JSON strings into data class objects
 * AWS SDK for connecting the AWS IOT Core and receiving MQTT messages
+
+## Demonstration 
+
+<p align="center">
+  <img src="/Images/menu.jpg" width="350" title="The App Menu">
+  <img src="/Images/Graphing.jpg" width="350" title="Graphing Sensor Data">
+</p>
+
+
+<p align="center">
+  <img src="/Images/crop_predictions.jpg" width="350" title="The App Menu">
+  <img src="/Images/crop-prediction-history.jpg" width="350" title="Graphing Sensor Data">
+</p>
