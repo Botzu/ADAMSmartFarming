@@ -4,8 +4,9 @@
 
 * Reads multiple sensor values from multiple microcontroller boards at once
 * Charts sensor readings dynamically using MPAndroidChart
-* Authenticates users through federated identity pools on AWS cognito
-* Provides crop suggestions powered by flask sever hosting ML algorithm
+* Authentication through AWS cognito
+* Displays crop suggestions powered by flask sever hosting ML algorithm
+* Displays sensor warning based on values
 * Stores the prediction data locally on the app using an SQLite Database
 * Custom Icons created through Adobe XD
 
