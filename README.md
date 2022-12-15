@@ -48,4 +48,4 @@ Corresponding MQTT tags can be seen in ```SerializableMqTTTypes.kt``` file
 
 ## Video Presentation
 
-A video of our Project can be found on google drive [here](https://drive.google.com/file/d/1pTGVneAP5Z7J-KBNtFm-Vsq6o-qaiTcv/view?usp=sharing)
+A video of our project can be found on google drive [HERE](https://drive.google.com/file/d/1pTGVneAP5Z7J-KBNtFm-Vsq6o-qaiTcv/view?usp=sharing)
