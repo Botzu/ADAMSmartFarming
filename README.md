@@ -45,3 +45,7 @@ Corresponding MQTT tags can be seen in ```SerializableMqTTTypes.kt``` file
   <img src="/Images/crop_predictions.jpg" width="350" title="The App Menu">
   <img src="/Images/crop-prediction-history.jpg" width="350" title="Graphing Sensor Data">
 </p>
+
+## Video Presentation
+
+A video of our Project can be found on google drive [here](https://drive.google.com/file/d/1pTGVneAP5Z7J-KBNtFm-Vsq6o-qaiTcv/view?usp=sharing)
